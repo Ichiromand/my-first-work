@@ -1,5 +1,4 @@
 nav {
-    padding: 10px;
     border: 1px solid #F6F6F6;
     text-align: center;
     margin: 0 auto;
@@ -27,5 +26,9 @@ background: #F6F6F6;
 color: #2275D7;
 width: 304px;
 height: 77px;
-margine: 0 auto;
+margin: 0 auto;
+text-align: center;
+}
+nav p {
+    text-align: left;
 }
