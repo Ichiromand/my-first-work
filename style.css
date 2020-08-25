@@ -38,7 +38,8 @@ text-align: center;
 font-size: 12px;
 text-align: left;
 font-family: Lato;   
-margin: 22px;
+margin-left: 16px;
+margin-top: 22px;
 }
 span {
     color: grey;
