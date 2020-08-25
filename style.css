@@ -34,7 +34,6 @@ height: 82px;
 margin: 0 auto;
 text-align: center;
 display: inline-block;
-line-height: 25px;
 }
 
 
@@ -59,14 +58,4 @@ span {
     display: inline-block;
     vertical-align: middle;
     line-height: 82px;
-}
-.middle2 {
-    display: inline-block;
-    vertical-align: middle;
-    line-height: 41px;
-}
-.middle3 {
-    display: inline-block;
-    vertical-align: middle;
-    line-height: 27px;
 }
