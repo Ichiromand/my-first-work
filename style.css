@@ -33,7 +33,7 @@ width: 304px;
 height: 82px;
 margin: 0 auto;
 text-align: center;
-line-height: 80px;
+line-height: 82px;
 }
 
 
@@ -57,5 +57,5 @@ span {
 .middle {
     display: inline-block;
     vertical-align: middle;
-    line-height: 20px;
+    line-height: 27px;
 }
