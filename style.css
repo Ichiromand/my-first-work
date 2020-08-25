@@ -33,7 +33,11 @@ width: 304px;
 height: 82px;
 margin: 0 auto;
 text-align: center;
+display: inline-block;
+line-height: 25px;
 }
+
+
 .id {
 font-size: 12px;
 text-align: left;
@@ -50,4 +54,19 @@ span {
     float: right;
     margin-top: 15px;
     margin-right: 16px;
+}
+.middle {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 82px;
+}
+.middle2 {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 41px;
+}
+.middle3 {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 27px;
 }
