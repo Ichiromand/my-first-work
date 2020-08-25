@@ -1,9 +1,9 @@
-nav {
+.img {
     border: 1px solid #F6F6F6;
-    text-align: center;
     margin: 0 auto;
     width: 304px;
     height: 304px;
+    text-align: center;  
 }
 .scr {
     border-radius: 50%;
@@ -25,13 +25,12 @@ font-family: Roboto;
 background: #F6F6F6;
 color: #2275D7;
 width: 304px;
-height: 77px;
+height: 82px;
 margin: 0 auto;
 text-align: center;
 }
-nav p {
-    text-align: left;
-}
 .id {
     font-size: 15px;
+text-align: left;    
+
 }
