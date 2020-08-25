@@ -7,6 +7,16 @@
     float: left;
     border-radius: 4px;
 }
+.img:hover {
+    background: rgba(32, 61, 95, 0.45);
+    border: 1px solid #F6F6F6;
+    margin: 20px;
+    width: 304px;
+    height: 304px;
+    text-align: center;  
+    float: left;
+    border-radius: 4px;
+}
 .clear {
     clear: both;
 }
