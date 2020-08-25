@@ -37,8 +37,8 @@ text-align: center;
 .id {
 font-size: 12px;
 text-align: left;
-font-family: Lato;  
-padding: 10px; 
+font-family: Lato;   
+margin: 22px;
 }
 span {
     color: grey;
