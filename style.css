@@ -5,6 +5,7 @@
     height: 304px;
     text-align: center;  
     float: left;
+    border-radius: 4px;
 }
 .clear {
     clear: both;
@@ -34,7 +35,11 @@ margin: 0 auto;
 text-align: center;
 }
 .id {
-    font-size: 15px;
-text-align: left;    
-
+font-size: 12px;
+text-align: left;
+font-family: Lato;   
+}
+span {
+    color: grey;
+    font-size: 9px;
 }
