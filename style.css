@@ -40,8 +40,14 @@ text-align: left;
 font-family: Lato;   
 margin-left: 16px;
 margin-top: 22px;
+float: left;
 }
 span {
     color: grey;
     font-size: 9px;
+}
+.icon {
+    float: right;
+    margin-top: 15px;
+    margin-right: 16px;
 }
