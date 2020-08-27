@@ -73,7 +73,7 @@ span .id {
   height: 230px;
   background: rgba(32, 61, 95, 0.45);
   display: none;
-  line-height: 270px;
+  line-height: 230px;
 }
 .img:hover .overlay {
     display: block;
@@ -85,5 +85,6 @@ span .id {
     background: #ffffff;
     border-radius: 50%;
     display: inline-block;
-    line-height: 30px;
+    line-height: 31px;
+    margin: 7px;
   }
