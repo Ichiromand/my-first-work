@@ -1,3 +1,43 @@
+body {
+    font-family: Lato;
+}
+.sag {
+    font-size: 14px;
+    color: #B1B1B1;
+}
+.sag2 {
+    float: left;
+}
+.serch {
+    border: none;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.15);
+    line-height: 19px;
+    display: flex;
+    margin-left: 420px;
+}
+.inv2 {
+    width: 32px; 
+    height: 32px;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    margin-left: 700px;
+} 
+.inv3 {
+width: 32px; 
+height: 32px;
+border-top-right-radius: 50%;
+border-bottom-right-radius: 50%;
+}
+
+.inv4 {
+    background: #2275D7;
+    border-radius: 1000px;
+    font-size: 14px;
+    width: 32px; 
+    height: 32px;
+    line-height: 16px;
+}
 .img {
     border: 1px solid #F6F6F6;
     margin: 20px;
