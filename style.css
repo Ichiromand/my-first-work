@@ -38,6 +38,7 @@ border-bottom-right-radius: 50%;
     width: 32px; 
     height: 32px;
     line-height: 16px;
+    margin-left: 100px;
 }
 .img {
     border: 1px solid #F6F6F6;
