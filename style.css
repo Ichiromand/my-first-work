@@ -7,6 +7,7 @@ body {
 }
 .sag2 {
     float: left;
+    border-bottom: 1px solid rgba(177, 177, 177, 0.25);
 }
 .serch {
     border: none;
@@ -72,7 +73,7 @@ font-family: Roboto;
 background: #F6F6F6;
 color: #2275D7;
 width: 304px;
-height: 73px;
+height: 74px;
 margin: 0 auto;
 text-align: center;
 line-height: 70px;
