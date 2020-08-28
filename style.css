@@ -51,17 +51,17 @@ border: 1px solid #EAEAEA;
 
 .blue {
     background: #2275D7;
-    border-radius: 100px;
-    margin-left: 60px;
+    border-radius: 20px;
+    margin: 60px;
 }
 
 .inv4 {
    color: #ffffff;
     font-size: 14px;
-    line-height: 16px;
-    margin: 10px;
-    vertical-align: middle;
-
+    margin: 30px;
+    line-height: 20px;
+    display: inline-block;
+    padding: 10px 25px;
 }
 
 .img {
