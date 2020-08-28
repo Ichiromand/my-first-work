@@ -20,40 +20,48 @@ body {
     margin-left: 300px;
     border: none;
 }
+.serch2 {
+    border: none;
+    border-bottom: 1px solid rgba(177, 177, 177, 0.25);;
+}
 .inv2 {
     float: left;
     width: 32px; 
     height: 32px;
     border-top-left-radius: 50%;
     border-bottom-left-radius: 50%;
-    margin-left: 130px;
+    margin-left: 150px;
     background:  #EAEAEA;
+    border: 1px solid #EAEAEA;
 } 
 .icon3 {
     margin-left: 10px;
 }
 .icon4 {
-    margin-left: 10px;
+    margin-left: 8px;
 }
 .inv3 {
-    float: left;
+float: left;
 width: 32px; 
 height: 32px;
 border-top-right-radius: 50%;
 border-bottom-right-radius: 50%;
-border: #EAEAEA;
+border: 1px solid #EAEAEA;
+}
+
+.blue {
+    background: #2275D7;
+    border-radius: 100px;
+    margin-left: 60px;
 }
 
 .inv4 {
    color: #ffffff;
     font-size: 14px;
-    width: 32px; 
-    height: 32px;
     line-height: 16px;
-    margin-left: 80px;
+    margin: 10px;
     vertical-align: middle;
-    background: #2275D7;
-    border-radius: 1000px;
+
 }
 
 .img {
