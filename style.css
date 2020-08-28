@@ -20,9 +20,15 @@ body {
     margin-left: 300px;
     border: none;
     border-bottom: 1px solid rgba(177, 177, 177, 0.25);
+    vertical-align: middle;
+    display: inline-block;
 }
 .search2 {
     border: none;
+    vertical-align: middle;
+}
+.search3 {
+    vertical-align: middle;
 }
 .search2::placeholder { 
     color: rgba(0, 0, 0, 0.15);
