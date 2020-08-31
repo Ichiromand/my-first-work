@@ -4,6 +4,7 @@ body {
 .sag {
     font-size: 14px;
     color: #B1B1B1;
+    margin-left: 20px; 
 }
 .sag2 {
     border-bottom: 1px solid rgba(177, 177, 177, 0.25);
@@ -141,7 +142,7 @@ span .id {
     color: #2275D7;
 }
 .overlay {
-    position: absolute;
+  position: absolute;
   top: 0;
   left: 0;
   width: 304px;
@@ -165,4 +166,56 @@ span .id {
   }
   .icon2 {
     vertical-align: middle;
+  }
+  .right {
+      margin-left: 80px;
+  }
+  .left {
+      background:  #203D5F;
+      width: 80px; 
+      height: 790px; 
+      position: fixed; 
+  }
+  .im1 {
+      position: absolute;
+      vertical-align: middle;
+     margin-top: 4px;
+     margin-left: 4px;
+  }
+  .circle {
+     background:  #657F9C;
+     border-radius: 50%;
+     vertical-align: middle;
+     width: 32px; 
+     height: 32px;
+     margin-left: 28px;
+    margin-top: 36px;
+    margin-right: 28px;
+  }
+  .im2 {
+    margin-left: 32px;
+    margin-top: 42px;
+  }
+  .im3 {
+    margin-left: 32px;
+    margin-top: 40px;
+    margin-bottom: 20px
+  }
+  .overcirc {
+
+    display: none;
+   
+  }
+  .im4:hover .overcirc {
+      display: block;
+     
+  }
+  .im5 {
+    margin-left: 32px;
+    margin-bottom: 31px;
+    margin-top: 333px;
+  }
+  .im6 {
+    margin-left: 23px;
+    margin-bottom: 33px;
   }
