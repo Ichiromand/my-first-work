@@ -193,30 +193,26 @@ span .id {
     margin-top: 36px;
     margin-right: 28px;
   }
-  .im2 {
-    margin-left: 32px;
-    margin-top: 42px;
-  }
-  .im3 {
-    margin-left: 32px;
-    margin-top: 40px;
-    margin-bottom: 20px
-  }
-  .overcirc {
 
-    display: none;
-   
-  }
-  .im4:hover .overcirc {
-      display: block;
-     
-  }
   .im5 {
     margin-left: 32px;
-    margin-bottom: 31px;
-    margin-top: 351px;
+    margin-top: 333px;
   }
   .im6 {
+    margin-top: 31px; 
     margin-left: 23px;
     margin-bottom: 33px;
+  }
+  .in {
+    width: 16px; 
+    height: 16px;
+      border-radius: 50%;
+      border: 2px solid #6B85A2;
+      vertical-align: middle;
+      display: block;
+     margin-left: 32px;
+     margin-top: 42px;
+      }
+  .push {
+    height: 26px;
   }
