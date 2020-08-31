@@ -192,11 +192,12 @@ span .id {
      margin-left: 28px;
     margin-top: 36px;
     margin-right: 28px;
+    margin-bottom: 21px;
   }
 
   .im5 {
     margin-left: 32px;
-    margin-top: 333px;
+    margin-top: 349px;
   }
   .im6 {
     margin-top: 31px; 
@@ -209,10 +210,10 @@ span .id {
       border-radius: 50%;
       border: 2px solid #6B85A2;
       vertical-align: middle;
-      display: block;
+      display: inline-block;
      margin-left: 32px;
-     margin-top: 42px;
+     margin-top: 21px;
       }
   .push {
-    height: 26px;
+    height: 58px;
   }
