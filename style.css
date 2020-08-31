@@ -173,8 +173,9 @@ span .id {
   .left {
       background:  #203D5F;
       width: 80px; 
-      height: 790px; 
       position: fixed; 
+      top: 0; 
+      left: 0;
   }
   .im1 {
       position: absolute;
@@ -213,7 +214,7 @@ span .id {
   .im5 {
     margin-left: 32px;
     margin-bottom: 31px;
-    margin-top: 333px;
+    margin-top: 351px;
   }
   .im6 {
     margin-left: 23px;
