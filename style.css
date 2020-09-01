@@ -213,7 +213,15 @@ span .id {
       display: inline-block;
      margin-left: 32px;
      margin-top: 21px;
+     box-sizing: border-box;
       }
   .push {
     height: 58px;
+  }
+  .push:hover .in {
+      background: #F6F6F6;
+      border: #F6F6F6;
+  }
+  .push:hover {
+      background:  #2F6ECD;
   }
