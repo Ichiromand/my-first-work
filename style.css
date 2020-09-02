@@ -143,7 +143,7 @@ span .id {
   position: absolute;
   top: 0;
   left: 0;
-  width: 304px;
+  width: 100%;
   height: 230px;
   background: rgba(32, 61, 95, 0.45);
   display: none;
