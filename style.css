@@ -176,6 +176,7 @@ span .id {
       position: fixed; 
       top: 0; 
       left: 0;
+      bottom: 0;
   }
   .im1 {
       position: absolute;
@@ -205,8 +206,8 @@ span .id {
     margin-bottom: 33px;
   }
   .in {
-    width: 16px; 
-    height: 16px;
+width: 16px; 
+    height: 16px;    
       border-radius: 50%;
       border: 2px solid #6B85A2;
       vertical-align: middle;
@@ -219,9 +220,17 @@ span .id {
     height: 58px;
   }
   .push:hover .in {
+    width: 18px; 
+    height: 18px;
       background: #F6F6F6;
       border: #F6F6F6;
   }
   .push:hover {
       background:  #2F6ECD;
   }
+.imbot {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
