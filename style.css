@@ -11,19 +11,21 @@ body {
 }
 .sag3 {
     float: left; 
-    margin-left: 20px; 
+    margin-left: 1%; 
 }
 .search {
     float: left;
     font-size: 16px;
     color: rgba(0, 0, 0, 0.15);
     line-height: 19px;
-    margin-left: 300px;
     border: none;
     border-bottom: 1px solid rgba(177, 177, 177, 0.25);
     vertical-align: middle;
     padding: 5px;
+    display: inline-block;
+    text-align: center;
 }
+
 .search2 {
     border: none;
     vertical-align: middle;
@@ -39,11 +41,10 @@ body {
  }
 .inv2 {
     float: left;
-    width: 32px; 
     height: 32px;
     border-top-left-radius: 50%;
     border-bottom-left-radius: 50%;
-    margin-left: 130px;
+    margin-left: 18%;
     background:  #EAEAEA;
     border: 1px solid #EAEAEA;
 } 
@@ -60,9 +61,10 @@ height: 32px;
 border-top-right-radius: 50%;
 border-bottom-right-radius: 50%;
 border: 1px solid #EAEAEA;
-margin-right: 40px;
 }
+.inv2in {
 
+}
 
 .inv4 {
    color: #ffffff;
@@ -72,12 +74,15 @@ margin-right: 40px;
     padding: 10px 25px;
     background: #2275D7;
     border-radius: 20px;
+    margin-right: 2%;
 }
-
+.inv4in {
+    text-align: right;
+}
 .img {
     border: 1px solid #F6F6F6;
-    margin: 3%;
-    width: 27%;
+    margin: 1%;
+    width: 31%;
     text-align: center;  
     float: left;
     border-radius: 4px;
@@ -167,6 +172,7 @@ span .id {
   }
   .right {
       margin-left: 80px;
+      min-width: 800px;
   }
   .left {
       background:  #203D5F;
