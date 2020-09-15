@@ -63,9 +63,6 @@ border-top-right-radius: 50%;
 border-bottom-right-radius: 50%;
 border: 1px solid #EAEAEA;
 }
-.inv2in {
-    
-}
 
 .inv4 {
    color: #ffffff;
@@ -76,10 +73,8 @@ border: 1px solid #EAEAEA;
     border-radius: 20px;
 }
 .inv4in {
-    display: inline-block;
-    width: 18%;
-    text-align: right;
-    margin-left: 5%
+    margin-right: 2%;
+    float: right;
 }
 .img {
     border: 1px solid #F6F6F6;
