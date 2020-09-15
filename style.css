@@ -12,9 +12,12 @@ body {
 .sag3 {
     float: left; 
     margin-left: 1%; 
+    width: 33%;
 }
 .search {
     float: left;
+    width: 13%;
+    margin: 0 15% 0 10%;
     font-size: 16px;
     color: rgba(0, 0, 0, 0.15);
     line-height: 19px;
@@ -23,7 +26,6 @@ body {
     vertical-align: middle;
     padding: 5px;
     display: inline-block;
-    text-align: center;
 }
 
 .search2 {
@@ -44,7 +46,6 @@ body {
     height: 32px;
     border-top-left-radius: 50%;
     border-bottom-left-radius: 50%;
-    margin-left: 18%;
     background:  #EAEAEA;
     border: 1px solid #EAEAEA;
 } 
@@ -63,21 +64,22 @@ border-bottom-right-radius: 50%;
 border: 1px solid #EAEAEA;
 }
 .inv2in {
-
+    
 }
 
 .inv4 {
    color: #ffffff;
     font-size: 14px;
     line-height: 20px;
-    display: inline-block;
     padding: 10px 25px;
     background: #2275D7;
     border-radius: 20px;
-    margin-right: 2%;
 }
 .inv4in {
+    display: inline-block;
+    width: 18%;
     text-align: right;
+    margin-left: 5%
 }
 .img {
     border: 1px solid #F6F6F6;
