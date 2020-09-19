@@ -12,7 +12,7 @@ body {
 .cen {
     float: left; 
     width: 31%;
-    margin-left: 1%;
+    margin: 0 1%;
 }
 .cenc {
     text-align: center;
@@ -57,7 +57,7 @@ body {
    text-align: center;
 }
 .icon4 {
-    vertical-align: center;
+    vertical-align: middle;
 }
 .inv3 {
 width: 32px; 
